@@ -8,7 +8,7 @@ published: true
 labels:
   - Photon Particle Microcontroller
   - C++
-summary: "A group project for my introduction to computing systems course: EE1301."
+summary: "A group project for Introduction to Computing at UMN-TC (EE1301)."
 ---
 
 This project was created as a final project for the University of Minnesota course EE1301. The goal of the project was
