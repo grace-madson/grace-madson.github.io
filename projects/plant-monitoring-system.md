@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/plant-project-sized.png
 title: "Plant Monitoring System"
 date: 2021
 published: true
 labels:
   - Photon Particle Microcontroller
   - C++
-summary: "A group project for my introduction to computing systems course EE1301."
+summary: "A group project for my introduction to computing systems course: EE1301."
 ---
 
 This project was created as a final project for the University of Minnesota course EE1301. The goal of the project was
