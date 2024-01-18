@@ -30,16 +30,16 @@
       "keywords": [ "Linux", "Windows 11", "Git/GitHub" ]
     },
     {
-      "name": "Design Software Skills",
+      "name": "Design Softwares and Skills",
       "keywords": [ "Autodesk Inventor", "Solidworks", "Altium", "MATLAB", "Autodesk Maya", "3D printing", "Adobe InDesign"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Minnesota - Twin Cities, Minneapolis, MN",
+      "area": "Electrical Engineering (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-09-07",
       "endDate": "Present",
       "courses": [
       ]
@@ -47,69 +47,65 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Institute on the Environment University of Minnesota",
+      "position": "International Energy Partnerships Project Assistant",
+      "website": "https://environment.umn.edu/",
+      "startDate": "2022-02-16",
+      "endDate": "2023-12-27",
+      "summary": "Assistant for Director of International Partnerships, Sabine Engel, at the University of Minnesota",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Organized and facilitated events with international business and political leaders",
+        "Designed brochures and flyers, and documented meeting agendas using Word and InDesign weekly",
+        "Communicated with partners, businesses, and university staff and students daily through phone calls and emails",
+        "Moderated international Zoom meetings with 75+ participants by greeting attendees, answering questions, creating breakout rooms, presenting slide decks, and sharing informative documents",
+        "Advocated for opportunities for students to get involved with the energy transition by speaking at lectures and administering the study abroad program Germany: Leading the Renewables Revolution",
+        "Edited and created websites with Wix for university programs and organizations"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Airgain Inc.",
+      "position": "Electrical Engineering Associate",
+      "website": "https://www.airgain.com/",
+      "startDate": "2023-05-25",
+      "endDate": "2023-08-25",
+      "summary": "Worked on various projects for Airgain including power testing the Asset Tracker product line, circuit and schematic design, and customer support debugging",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Created and executed test fixtures to conduct power testing on the entire product line of Asset Trackers while generating training documentation",
+        "Created footprints, symbols, and schematics using Altium",
+        "Used tools such as multimeters, oscilloscopes, and terminal emulators to find solutions to technical problems",
+        "Assisted in debugging existing PCB boards for RMA using soldering techniques",
+        "Designed a test board for a new product comprised of accelerometers, pressure sensors, and an STM32WB microcontroller",
+        "Conducted regression testing for products with Quectel modems"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "FIRST Robotics",
+      "website": "https://www.firstinspires.org/robotics/frc",
+      "position": "Safety Manager",
+      "startDate": "2022-04-06",
+      "endDate": "2022-04-08",
+      "summary": "Supervised safe practices during the FIRST Robotics Competition Northstar Regional",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Answered student questions about safety and assisted with emergency situations for all 60 teams present",
+        "Distributed safety glasses to students in the pits throughout the entirety of competition",
+        "Awarded the Safety All-Star to a deserved student each day of the competition"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Most Valuable Teammate Award and Veteran Inspiration Award",
+      "date": "2021",
+      "awarder": "TIMEbots Robotics Team",
+      "summary": "To receive the Most Valuable Teammate Award, students on the TIMEbots robotics team vote for the teammate they think exemplifies the most Gracious Professionalism throughout the season. The Veteran Inspiration Award recipient is a teammate who has been on the team for more than 1 year and selected by the mentors. The award is given to a team member who inspires others to follow the key principles of FIRST Robotics"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "John Philip Sousa Award",
+      "date": "2021",
+      "awarder": "New Prague High School Band Boosters",
+      "summary": "The award was introduced in 1955 to honor the top student in the high school band. It recognizes superior musicianship and outstanding dedication"
     }
   ],
   "references": [
