@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MusiGlove-resized.png
+image: img/music-through-decades-resized.png
 title: "Music Through the Decades"
 date: 2020
 published: true
