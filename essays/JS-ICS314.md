@@ -4,7 +4,7 @@ type: essay
 title: "JavaScript and ICS 314... are They Worth the Hype?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
-published: false
+published: true
 labels:
   - Javascript
   - Software Engineering
