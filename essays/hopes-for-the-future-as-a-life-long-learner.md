@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/learn.jpg">
+<img width="200px" src="../img/learn.jpg" class="img-thumbnail" >
 
 ##I am taking ICS out of my own free will…
 
