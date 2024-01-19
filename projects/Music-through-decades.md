@@ -21,4 +21,4 @@ The overarching goal of the project was to have fun and give people entertainmen
 
 What I learned from this project was that having fun working on a project with passionate people is the way to get a project done. This was one of the most fun project I have ever worked on, and I would love to do it again someday if the stars align.
 
-<img class="img-fluid" src="../img/melodica1.png">
+<img class="img-fluid" src="../img/melodica1.jpg">
