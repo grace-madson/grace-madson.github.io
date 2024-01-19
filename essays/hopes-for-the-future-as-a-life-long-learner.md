@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="img-fluid" src="../img/learn.jpg">
+<img class="img-fluid" src="../img/learn2.jpg">
 
 ## I am taking ICS out of my own free will…
 
