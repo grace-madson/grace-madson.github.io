@@ -11,7 +11,7 @@ labels:
 summary: "A group project for Introduction to Computing at UMN-TC (EE1301)."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/plant-project-sized.png">
 
 This project was created as a final project for the University of Minnesota course EE1301. The goal of the project was
 to use the photon microcontroller and the Internet of Things (IoT) to create a project with the microcontroller. Our group
