@@ -10,6 +10,9 @@ labels:
   - Software Engineering
 ---
 
+
+<img class="img-fluid" src="../img/JS-pic.jpg">
+
 ## Is JavaScript worth the hype?
 
 This isn’t my first time using JavaScript. In high school, I was lucky enough to take an Intro to Programming course in highschool using code.org to program little apps and games with JavaScript. However, it’s been a long time since then, so it’s been refreshing to get back into it after using languages like C and Java. After getting back into it, I realized it is a little more intuitive than other languages like C and Java (I haven’t used Python yet). Things like creating a variable or a function are so much easier because the user doesn’t have to worry about the type as much! It almost feels… wrong! But JavaScript feels a lot more intuitive to me personally (it could be since it was one of the first languages that I learned). Even the things that I didn’t know seemed like they flowed easily and made sense. I especially like the “new” declaration types of ES6: const and let. I like that it keeps the variables easy to declare (not isolated by types like string and char), but gives them more security when they can be accessed and changed. Because it is intuitive yet has a lot of flexible features, I think that is what would make this a great language for software engineering. So overall, yes, I think JS is worth the hype!
