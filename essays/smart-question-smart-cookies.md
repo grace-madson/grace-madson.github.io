@@ -16,7 +16,7 @@ labels:
 
 Sometimes (and by that, I mean a lot of times) engineers run into problems. That’s just part of the job! But where do you turn to when you have been at a problem for an ungodly amount of time? I would say that if you have a supervisor near you at the workplace, sometimes it’s best to ask them because chances are that they have run into the same issue or are experienced enough to help you work through it. But what if they are busy? What if the project isn’t in the workplace, but your own personal project? Where do you go?
 
-As a software developer, in my experience, most turn to the website and online forum Stack Overflow [add link here]. It’s the hub for getting all your programming answers! The key to getting the correct answer though is, you guessed it, asking smart questions.
+As a software developer, in my experience, most turn to the website and online forum [Stack Overflow](https://stackoverflow.com/). It’s the hub for getting all your programming answers! The key to getting the correct answer though is, you guessed it, asking smart questions.
 
 ## What is a smart question?
 
