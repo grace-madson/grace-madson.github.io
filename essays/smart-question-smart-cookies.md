@@ -26,7 +26,7 @@ A smart question, according to a popular hacking article “How To Ask Questions
 
 Let’s look at [this Stack Overflow question](https://stackoverflow.com/questions/263965/how-can-i-convert-a-string-to-boolean-in-javascript) as an example of a smart question:
 
-<img width="200px" class="rounded float-start pe-4" src="../img/good-question.png">
+<img class="img-fluid" src="../img/good-question.png">
 
 What makes this a smart question? Well for starters, the main question they are trying to address is at the top and is stated in one sentence! That is a great start since it is concise and states the focus of the question upfront. It also states the programming language which is good since it will attract that language’s experts to the problem.
 
@@ -40,7 +40,7 @@ The way this question was asked works. It helps narrow down the responses to get
 
 So we saw an example of a smart question. What does a not-smart question look like? Well here is [a question that was not-so-smart](https://stackoverflow.com/questions/60168669/how-can-i-make-this-code-betterbecause-it-doesnt-work-now):
 
-<img width="200px" class="rounded float-start pe-4" src="../img/poor-question.png">
+<img class="img-fluid" src="../img/poor-question.png">
 
 What makes this question not smart, is that they just stated “It doesn’t work.” There is no context as to why it might not work. Are they simply inexperienced with html so it is highly probable that there is a syntax error? Based on the way they asked the question, it could probably be assumed, but who has time for that? They didn’t even specify the error message, so whoever answers the question has to fire up their own IDE and try to run it themselves.
 
