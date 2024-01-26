@@ -30,7 +30,7 @@ The overarching goal of the project was to have fun and give people entertainmen
 
 <div class="ratio ratio-4x3 my-4">
   <iframe src="https://youtu.be/Jxjj9W_rGa4?si=zCk9gfkML4M0-iTJ" 
-          title="Overview of Hackystat" 
+          title="Music Over the Decades"
           allowfullscreen>
   </iframe>
 </div>
