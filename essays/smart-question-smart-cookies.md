@@ -49,4 +49,4 @@ The only good thing about this question is that the code provided is formatted t
 
 ## Conclusion
 
-Given these two examples from stack overflow, you can see that asking smart questions matters! Communication is a skill of engineering and programming that is often neglected in school, so do make an effort to build those skills and start asking smart questions to be a smart cookie!
+Given these two examples from stack overflow, you can see that asking smart questions matters! Communication is a skill of engineering and programming that is often neglected in school, so do make an effort to build those skills and start asking smart questions to be a smart cookie! :)
