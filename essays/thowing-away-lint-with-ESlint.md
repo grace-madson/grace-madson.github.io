@@ -75,4 +75,5 @@ If you compare the examples above, you can see that not only did the changes mak
 So I have been using IntelliJ as my IDE while programming in JavaScript, and I have been introduced to the ESlint checker. Right now I have it set up to throw an error when it is not formatted correctly. I haven’t had much experience using it, but so far I have found it both annoying and helpful. The reason I find it annoying is because if the IDE is throwing an error, then you aren’t sure if it is because the code isn’t functional or if it’s just not formatted correctly. So it takes a little longer to program because I want to make sure all the errors are accounted for before testing my code. 
 
 But overall, ESlint is very helpful because it makes my code look so much better and more organized! Sometimes when I try to solve a problem in a hurry, my spacing gets awkward and I use different methods of doing the same things. ESlint helps me keep it consistent so that it is also easier to debug later on!
+
 After everything is said and done, I completely recommend adhering to coding standards since they will make your code more readable, more concise, and overall, better!
