@@ -23,7 +23,7 @@ Look at how coding standards change an ok chunk of code into a clean and readabl
 
 Code without ESlint:
 
-```
+```javascript
 var foo = 3;
 const car = "Toyota";
 const obj = {
@@ -47,7 +47,7 @@ function zob(param) {
 
 
 Code with ESlint fixes:
-```
+```javascript
 const car = 'Toyota';
 const obj = {
   car,
