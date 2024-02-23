@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title: "Pull yourself up by the bootstraps to learn UI frameworks"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-08
+date: 2024-02-22
 published: true
 labels:
   - Programming
-  - Coding Standards
+  - HTML/CSS
+  - UI Frameworks
 ---
 
 The only way I have designed websites in the past has been with Wix (which trust me, is not that difficult. I only have had a little previous experience with HTML and CSS, so this has all been a new experience for me. Yes, I prefer Wix just because it is so much easier, however, the opportunities with HTML and CSS are endless. SO endless that it can be very time-consuming and confusing to get exactly what you want by just using raw HTML and CSS. The solution? Using UI Frameworks.
