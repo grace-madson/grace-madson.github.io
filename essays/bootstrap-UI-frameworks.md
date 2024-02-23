@@ -125,10 +125,11 @@ With Bootstrap:
 The results from this code give us the following:
 
 HTML:
-<img class="img-fluid" src="../img/Several-errors.png">
+<img class="img-fluid" src="../img/html-1.png">
 
 Bootstrap (2 pictures since it has a dropdown):
-<img class="img-fluid" src="../img/Several-errors.png">
+<img class="img-fluid" src="../img/bootstrap-1.png">
+<img class="img-fluid" src="../img/bootstrap-2.png">
 
 Easy to see from this example, but Bootstrap provides not only a smoother UI but also in less lines of code AND no CSS. The breakdown is that the plain HTML/CSS file has 26 lines of HTML and 19 lines of CSS while the Bootstrap file has only 26 lines of HTML. Now THAT’S powerful. I feel like it’s self-explanatory that the benefits of Bootstrap heavily outweigh not using it. The same would go for any other UI framework one would decide to use.
 
