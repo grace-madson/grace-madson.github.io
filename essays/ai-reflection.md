@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="img-fluid" src="../img/ai-picture.jpg">
+<img class="img-fluid" src="../img/AI-picture.jpg">
 
 ## Introduction
 
