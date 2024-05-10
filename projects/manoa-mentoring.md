@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoa-mentor.png
+image: img/manoa-mentor-resized.png
 title: "Manoa Mentoring"
 date: 2024
 published: true
