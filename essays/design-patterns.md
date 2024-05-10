@@ -4,7 +4,7 @@ type: essay
 title: "What does the weather have to do with design patterns?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
-published: true
+published: false
 labels:
   - Design Patterns
 ---
